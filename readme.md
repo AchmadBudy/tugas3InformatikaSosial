@@ -9,7 +9,7 @@ Untuk menjalankan scrapy :
 
 -
 - Masuk ke directory nya
-- Tekan "scrapy crawl sinta -O [namafile].json
+- Tekan "scrapy crawl sinta -O [namafile].csv
 
 Untuk menjalankan BeautifulSoup :
 
